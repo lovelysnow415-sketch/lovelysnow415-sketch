@@ -42,8 +42,11 @@ I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creat
 
 ## 🌐 رابطہ کریں | Connect With Me  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40YourID-pink?logo=instagram)]([https://instagram.com/the_art_of_l_i_f_e/)]
-[![Instagram](https://img.shields.io/badge/Instagram-%40YourID-pink?logo=instagram)](/](https://www.instagram.com/h_adia_offical/))]
+## 🌐 Connect With Me | رابطہ کریں  
+
+[![Instagram](https://img.shields.io/badge/Instagram-h__adia__offical-pink?logo=instagram)](https://www.instagram.com/h_adia_offical/)  
+[![Instagram](https://img.shields.io/badge/Instagram-the__art__of__l__i__f__e-pink?logo=instagram)](https://www.instagram.com/the_art_of_l_i_f_e/)  
+
 [![Email](https://img.shields.io/badge/Email-YourEmail-blue?logo=gmail)](mailto:your-email@lovelysnow415.com)  
 
 ---
