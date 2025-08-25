@@ -34,11 +34,11 @@ I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creat
 
 ## 📊 GitHub Stats  
 
-![Hadia's GitHub stats](https://github-readme-stats.vercel.app/api?username"lovelysnow415"-sketch&show_icons=true&theme=rose_pine)  
+![Hadia's GitHub stats](https://github-readme-stats.vercel.app/api?username"lovelysnow415-sketch"&show_icons=true&theme=rose_pine)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username="lovelysnow415"-sketch&layout=compact&theme=rose_pine)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username="lovelysnow415-sketch"&layout=compact&theme=rose_pine)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user="lovelysnow415"-sketch&theme=rose_pine)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user="lovelysnow415-sketch"&theme=rose_pine)  
 
 ---
 
