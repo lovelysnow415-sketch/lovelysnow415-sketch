@@ -1,6 +1,6 @@
 # 🌸 Hadia Imran  
 
-![Profile Views](https://komarev.com/ghpvc/?username=HadiaImran&color=ff69b4)
+![Profile Views](https://komarev.com/ghpvc/?username=lovelysnow415-sketch&color=ff69b4)
 
 ---
 
@@ -34,11 +34,11 @@ I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creat
 
 ## 📊 GitHub Stats  
 
-![Hadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiaImran&show_icons=true&theme=rose_pine)  
+![Hadia's GitHub stats](https://github-readme-stats.vercel.app/api?usernamelovelysnow415-sketch&show_icons=true&theme=rose_pine)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiaImran&layout=compact&theme=rose_pine)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelysnow415-sketch&layout=compact&theme=rose_pine)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HadiaImran&theme=rose_pine)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lovelysnow415-sketch&theme=rose_pine)  
 
 ---
 
