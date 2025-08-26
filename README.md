@@ -7,8 +7,8 @@
 ## 👩‍🎓 میرے بارے میں | About Me  
 السلام علیکم!  
 I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creativity**.  
-- ✍️ Writing: Urdu Novels & Poetry  
-- 🎬 Video Editing & Short Clips Creation  
+- ✍️ Writing: Urdu Novels & Poetry  [![Instagram](https://img.shields.io/badge/Instagram-the__art__of__l__i__f__e-pink?logo=instagram)](https://www.instagram.com/the_art_of_l_i_f_e/)  
+- 🎬 Video Editing & Short Clips Creation  [![Instagram](https://img.shields.io/badge/Instagram-h__adia__offical-pink?logo=instagram)](https://www.instagram.com/h_adia_offical/)  
 - 💻 Programming: C, Python (basic level)  
 - 🎨 Designing: Canva  
 
