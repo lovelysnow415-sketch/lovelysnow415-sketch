@@ -5,7 +5,6 @@
 ---
 
 ##  | About Me  
-السلام علیکم!  
 I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creativity**.  
 - 💻 Programming: C, Python (basic level)  
 - 🎨 Designing: Canva  
@@ -33,7 +32,7 @@ I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creat
 
 ---
 
-## 🌐 رابطہ کریں | Connect With Me  
+## 🌐 | Connect With Me  
 
 ## 🌐 Connect With Me | رابطہ کریں  
 
