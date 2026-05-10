@@ -4,12 +4,9 @@
 
 ---
 
-## 👩‍🎓 میرے بارے میں | About Me  
+## یں | About Me  
 السلام علیکم!  
 I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creativity**.  
-- ✍️ Writing: Urdu Novels & Poetry  [![Instagram](https://img.shields.io/badge/Instagram-the__art__of__l__i__f__e-pink?logo=instagram)](https://www.instagram.com/the_art_of_l_i_f_e/)  
-- 🎬 Video Editing & Short Clips Creation  [![Instagram](https://img.shields.io/badge/Instagram-h__adia__offical-pink?logo=instagram)](https://www.instagram.com/h_adia_offical/)  [![Follow on TikTok](https://img.shields.io/badge/Follow%20on-TikTok-000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@hadiaimran400)
-
 - 💻 Programming: C, Python (basic level)  
 - 🎨 Designing: Canva  
 
@@ -19,16 +16,11 @@ I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creat
 
 ![C](https://img.shields.io/badge/Language-C-blue)  
 ![Python](https://img.shields.io/badge/Language-Python-yellow)  
-![Canva](https://img.shields.io/badge/Design-Canva-purple)  
-![Video Editing](https://img.shields.io/badge/Editing-Video%20Editing-red)  
-![Writing](https://img.shields.io/badge/Writing-Urdu%20Content%20&%20Novels-green)  
 
----
+
 
 ## 📚 پروجیکٹس | Projects  
 
-- 📖 **Novel:** *خوابوں کے سائے*  
-- 🎤 **Poetry Recordings:** My voice + Urdu Poetry  
 - 🎬 **Short Clips:** Nature & Emotional Edits  
 
 ---
@@ -45,11 +37,7 @@ I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creat
 
 ## 🌐 Connect With Me | رابطہ کریں  
 
-[![Instagram](https://img.shields.io/badge/Instagram-h__adia__offical-pink?logo=instagram)](https://www.instagram.com/h_adia_offical/)  
-[![Instagram](https://img.shields.io/badge/Instagram-the__art__of__l__i__f__e-pink?logo=instagram)](https://www.instagram.com/the_art_of_l_i_f_e/)  
 
 [![Email](https://img.shields.io/badge/Email-YourEmail-blue?logo=gmail)](mailto:your-email@lovelysnow415.com)  
 
----
-
-✨ *"الفاظ روشنی ہیں، اور قلم میرا سفر ہے۔"* ✨  
+---  
