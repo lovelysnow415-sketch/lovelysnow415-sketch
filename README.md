@@ -4,7 +4,7 @@
 
 ---
 
-## یں | About Me  
+##  | About Me  
 السلام علیکم!  
 I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creativity**.  
 - 💻 Programming: C, Python (basic level)  
@@ -12,14 +12,14 @@ I am an **ICS (Physics) Student**, passionate about **Writing, Coding, and Creat
 
 ---
 
-## 🚀 مہارتیں | Skills  
+## 🚀 | Skills  
 
 ![C](https://img.shields.io/badge/Language-C-blue)  
 ![Python](https://img.shields.io/badge/Language-Python-yellow)  
 
 
 
-## 📚 پروجیکٹس | Projects  
+## 📚 | Projects  
 
 - 🎬 **Short Clips:** Nature & Emotional Edits  
 
